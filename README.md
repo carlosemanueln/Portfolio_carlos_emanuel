@@ -1,6 +1,6 @@
 # Portfólio Carlos Emanuel
 
-Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi. Com foco em análise de dados, visualização, ETLs e construção de dashboards interativos.
+Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi recentemente. Com foco em análise, tratamento e visualização de dados. Além de ETLs e construção de dashboards interativos.
 
 
 ## 📂 Projetos
