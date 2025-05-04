@@ -6,7 +6,7 @@ Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi. Com foco
 ## 📂 Projetos
 
 ### 🚧 1. Pipeline ETL com Dados de Acidentes de Trânsito
-- ⚙️ Projeto de ETL real com dados públicos, incluindo limpeza, tratamento e visualizações.
+- ⚙️ Projeto de ETL real com dados públicos, incluindo limpeza, tratamento e visualizações a partir de gráficos e tabelas.
 - 🧰 Tecnologias: Python, Pandas, Plotly, Seaborn, Google Colab
 - 🔗 Projeto: (https://github.com/carlosemanueln/ETL_acidentes_transito)
 
