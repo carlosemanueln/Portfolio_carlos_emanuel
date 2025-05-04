@@ -7,7 +7,7 @@ Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi. Com foco
 
 ### 🚧 1. Pipeline ETL com Dados de Acidentes de Trânsito
 - ⚙️ Projeto de ETL real com dados públicos, incluindo limpeza, tratamento e visualizações.
-- 🧰 Tecnologias: Python, Pandas.
+- 🧰 Tecnologias: Python, Pandas, Plotly, Seaborn, Google Colab
 - 🔗 Projeto: (https://github.com/carlosemanueln/ETL_acidentes_transito)
 
 ### 🌍 2. Dashboard Interativo com Destinos de Viagem
@@ -17,7 +17,7 @@ Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi. Com foco
 
 ### 📊 3. Análise de Dados COVID-19
 - 🔍 Projeto focado na análise exploratória de dados relacionados à COVID-19 no Brasil.
-- 🧰 Tecnologias: Python, Pandas, Matplotlib.
+- 🧰 Tecnologias: Python, Pandas, Matplotlib, Google Colab
 - 🔗 Projeto: (https://github.com/carlosemanueln/Analise_COVID-19_Brasil)
 
 
