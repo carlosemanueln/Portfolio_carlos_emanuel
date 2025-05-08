@@ -10,7 +10,7 @@ Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi recenteme
 - 🔗 Projeto: (https://github.com/carlosemanueln/classificador_emocoes)
 
 ### 🚧 2. Pipeline ETL com Dados de Acidentes de Trânsito
-- ⚙️ Projeto de manipulação de dados em grande escala. Um pipeline ETL completo utilizando Python e Pandas para tratar, limpar e analisar dados de acidentes de trânsito no Brasil entre 2017 e 2023. O projeto envolveu inspeção e padronização de dados, substituição de valores ausentes, análises cruzadas e geração de gráficos com foco em insights como dias da semana com mais ocorrências e impacto das condições climáticas.
+- ⚙️ Projeto de manipulação de dados em grande escala. Um pipeline ETL completo utilizando Python, Matplotlib, Seaborn e Pandas para tratar, limpar e analisar dados de acidentes de trânsito no Brasil entre 2017 e 2023. O projeto envolveu inspeção e padronização de dados, substituição de valores ausentes, análises cruzadas e geração de gráficos com foco em insights como dias da semana com mais ocorrências e impacto das condições climáticas.
 - 🔗 Projeto: (https://github.com/carlosemanueln/ETL_acidentes_transito)
 
 ### 🌍 3. Dashboard Interativo com Destinos de Viagem
