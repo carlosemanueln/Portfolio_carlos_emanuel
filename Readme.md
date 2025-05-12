@@ -1,6 +1,6 @@
 # Portfólio Carlos Emanuel
 
-Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi recentemente. Incluindo modelos de Machine Learning e tratamento de dados (geração de Dashboards, ETLs e Gráficos...).
+Olá! 👋 Este repositório reúne alguns dos projetos que desenvolvi recentemente.
 
 
 ## 📂 Projetos
