@@ -1,6 +1,6 @@
 # Portfólio Carlos Emanuel
 
-Olá! 👋 Sou estudante de Engenharia da Computação com foco em engenharia e análise de dados. Este repositório reúne alguns dos projetos que desenvolvi recentemente.
+Olá! 👋 Sou estudante de Engenharia da Computação! Este repositório reúne alguns dos projetos que desenvolvi recentemente.
 
 
 ## 📂 Projetos
